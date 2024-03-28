@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "http://16.16.182.251/text"
+url = "http://13.53.192.174/text"
 
 auth_token = "hello"
 
