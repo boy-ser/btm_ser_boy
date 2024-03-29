@@ -1,3 +1,8 @@
+"""
+cat > endpoint_miner.py
+
+"""
+
 import os
 import time
 import argparse
